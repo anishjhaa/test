@@ -15,3 +15,12 @@ console.log(articleSection);
 
 const asideSection = "aside section added";
 console.log(asideSection);
+
+const upi = "UPI added";
+console.log(upi);
+
+const cash = "CASH added";
+console.log(cash);
+
+const netBanking = "netbanking added";
+console.log(netBanking);
