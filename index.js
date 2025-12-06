@@ -24,3 +24,9 @@ console.log(cash);
 
 const netBanking = "netbanking added";
 console.log(netBanking);
+
+let sum = function (a, b, c) {
+  return a + b + c;
+};
+
+sum(2, 3, 4);
