@@ -12,3 +12,12 @@ console.log(navBar);
 
 const articleSection = "article section added";
 console.log(articleSection);
+
+const asideSection = "aside section added";
+console.log(asideSection);
+
+const heroSection = "Hero section added";
+console.log(heroSection);
+
+const adv = "adv side added";
+console.log(adv);
