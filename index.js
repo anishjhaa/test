@@ -28,4 +28,8 @@ console.log(netBanking);
 let sum = function (a, b) {
   return a + b;
 };
+
+const bugFix = "Bug fixed";
+console.log(bugFix);
+
 sum(10, 13);
