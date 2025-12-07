@@ -25,6 +25,12 @@ console.log(cash);
 const netBanking = "netbanking added";
 console.log(netBanking);
 
+const atm = "ATM Added";
+console.log(atm);
+
+const bank = "bank added";
+console.log(bank);
+
 let sum = function (a, b) {
   return a + b;
 };
