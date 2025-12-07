@@ -25,6 +25,12 @@ console.log(cash);
 const netBanking = "netbanking added";
 console.log(netBanking);
 
+const atm = "ATM Added";
+console.log(atm);
+
+const bank = "bank added";
+console.log(bank);
+
 let sum = function (a, b) {
   return a + b;
 };
@@ -33,3 +39,6 @@ const bugFix = "Bug fixed";
 console.log(bugFix);
 
 sum(10, 13);
+
+const oreo = "OREO added";
+console.log(oreo);
